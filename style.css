@@ -1,0 +1,59 @@
+
+body {
+background-image: url("https://images.wallpapersden.com/image/download/pink-blue-gradient_bW1sbmuUmZqaraWkpJRsa21lrWloZ2U.jpg");
+font-family: Arial, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+text-align: center;
+}
+
+form {
+background: rgba(255, 255, 255, 0.205);
+padding: 40px;
+border-radius: 18px;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+width: 580px;
+align-items: center;
+text-align: center;
+}
+
+valor1,valor2 {
+font-size: 24px;
+margin-bottom: 20px;
+
+width: 100%;
+}
+
+label {
+display: block;
+margin-bottom: 15px;
+}
+
+input[type="number"],
+select {
+width: 100%;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+
+button {
+background-color: #28a745;
+color: rgb(0, 0, 0);
+padding: 10px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+width: 100px;
+font-size: 16px;
+}
+
+
+
+        
+
+       
